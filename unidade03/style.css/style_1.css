@@ -8,5 +8,11 @@ h1{
 h1+p{
 	font-size:30px;
 	color:#009;
-	text-align:center;
+	text-align:left;
+}
+
+p{
+	font-size:30px;
+	color:#090;
+	text-align:right;
 }
